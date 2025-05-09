@@ -46,11 +46,17 @@ In the pop-up window, give a Display Name and past your GitHub Personal Access T
 
 After the account has been successfully added, you can select **Connect**. Now, you have to select the main branch, and add **Workspace Items to the Git folder**. Lasty, click **Connect and sync**.
 
+| Branch | Git folder |
+|--------------|----------|
+| main | Workspace Items |
+
 <img src="./PNG/14%20Configure%20Repo.png" width="500">
 
 Now, all Fabric items from the GitHub repo will be synced into the workspace. This can take a few minutes. You can follow the process at the top right corner.
 
-Once all items have successfully synced, we need to configure a few of them and create two Pipelines to orchestrate and ingest data. 
+Once all items have successfully synced and your workspace looks like on the picture below, we need to configure a few of them and create two Pipelines to orchestrate and ingest data. 
+
+<img src="./PNG/14 1 Successfull GitHub Sync.png" width="500">
 
 
 ## Configure all items
