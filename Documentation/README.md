@@ -56,6 +56,8 @@ Now, all Fabric items from the GitHub repo will be synced into the workspace. Th
 
 Once all items have successfully synced and your workspace looks like on the picture below, we need to configure a few of them and create two Pipelines to orchestrate and ingest data. 
 
+**It's normal that some items are Uncommitted as you can see in the screnshot below**.
+
 <img src="./PNG/14 1 Successfull GitHub Sync.png" width="500">
 
 
