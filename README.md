@@ -39,3 +39,8 @@ Sign up using an email, providing a secure password, and a username
 Next, verfiy your account with one option.
 
 <img src="./Documentation/PNG/03%20Verify%20your%20account.png" width="500">
+
+### Creating multiple users and workspaces automatically
+
+Thanks to [https://github.com/JohnDev13](https://github.com/JohnDev13) who provided a Python Notebook which allows you to automatically create users and workspaces, and assign them to a trial capacity if desired. This makes it possible to use this repository for hands-on training sessions as well. You can find the Notebook [here](.//Documentation/Python%20Script/Create%20users%20and%20workspaces%20automatically.ipynb)
+
